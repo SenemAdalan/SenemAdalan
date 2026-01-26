@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Senem ADALAN</h1>
 <h3 align="center">A passionate Software Engineer from Türkiye</h3>
 
-- 🔭 I’m currently working on **C++**
+- 🔭 I’m currently working on **Python**
 
 - 📫 How to reach me **senemadalan3@gmail.com**
 
